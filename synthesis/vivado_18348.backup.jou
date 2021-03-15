@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Mar  6 21:37:15 2021
+# Process ID: 18348
+# Current directory: C:/My_Designs/UPIR/design/src/synthesis
+# Command line: vivado.exe -mode tcl -source ../synthesis.tcl
+# Log file: C:/My_Designs/UPIR/design/src/synthesis/vivado.log
+# Journal file: C:/My_Designs/UPIR/design/src/synthesis\vivado.jou
+#-----------------------------------------------------------
+source ../synthesis.tcl
+quit
